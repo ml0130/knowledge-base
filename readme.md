@@ -1,6 +1,6 @@
 # VSS Knowledgebase
 
-The VSS Knowledgebase site is an open-source collaborative project allowing members of the VATSIM community to work together to create high-quality content.
+The VSS Knowledgebase site is an open-source collaborative project allowing members of the flight simulation community to work together to create high-quality content.
 
 ## Contributing
 
