@@ -1,0 +1,48 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<link rel="stylesheet" href="assets/stylesheets/home.css">
+<!-- Hero -->
+<section class="container">
+    <div class="md-grid md-typeset">
+        <div class="hero">
+            <div class="hero-content">
+                <h1> Welcome! </h1>
+                    <p>Welcome to the Virtual Sky School Knowledgebase hub. You will find high-quality information for virtual piloting in various continents, countries and FIRs, as well as other key information you'll need as you takeoff on your journey as a virual pilot.</p>  
+                <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}" class="md-button md-button--primary">
+                    Let's go!
+                </a>
+                <a href="https://vss-frontend.pepijncolenbrander.com/" title="Virtual Sky School Website" class="md-button">
+                    Back to Virtual Sky School website.
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Page links -->
+
+<div class="lowerSection">
+    <div class="md-grid md-typeset">
+        <div class="feature">
+					<h2>Featured Changes</h2>
+
+					<div class="cards">	
+						<div class="card">
+							<a href="">
+								<h3>Search Function</h3>
+
+								<p>
+									Need to quickly find information? The search function can be used to search for words or phrases. 
+									Need to be more specific? Search with "quotes".
+								</p>
+							</a>
+						</div>
+					</div>
+
+				</div>
+    </div>
+</div>
+
+{% endblock %}
+{% block content %}{% endblock %}
