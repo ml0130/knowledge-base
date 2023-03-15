@@ -23,7 +23,7 @@ So how do we contribute a new item or section? Let's have a look!
 !!! tip ""
     **Make note of the arrow!** In the image to the left, you can see that the arrow shows that we're wanting to merge `this-is-a-test-branch` into `main`.
 
--
+- After making sure the arrows are correct, click on the green `Create pull request` button.
 
 ![PR Overview](assets/pr-overview.png){ align=left width="350" }
 
