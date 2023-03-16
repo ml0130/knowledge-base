@@ -171,4 +171,10 @@
 *[SVY]: Aerial Survey
 *[BCTA]: Bottom of Controlled Airspace
 *[ZKC]: Kansas City ARTCC
-*[ARTCC]: Air Route Traffic Control Centers
+*[ARTCC]: Air Route Traffic Control Center
+*[PIC]: Pilot In Command
+*[METAR]: Meteorological Terminal Aviation Routine Weather Report
+*[TAF]: Terminal Aerodrome Forecast
+*[VMC]: Visual Meteorological Conditions
+*[METARs]: Meteorological Terminal Aviation Routine Weather Reports
+*[TAFs]: Terminal Aerodrome Forecasts
