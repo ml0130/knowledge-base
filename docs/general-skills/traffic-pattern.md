@@ -4,7 +4,7 @@
 
 --8<-- "includes/abbreviations.md"
 
-Adapted from FAA-H-8083-3B Chapter 7
+[Adapted from FAA-H-8083-3B Chapter 7](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook/media/09_afh_ch7.pdf){target=new}
 
 ## What is a pattern?
 
