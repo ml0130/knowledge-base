@@ -31,18 +31,18 @@ The forward movement of the elevator control will always move the plane in the s
 !!! info
     The pilot is always considered the referenced center of effect as the flight controls are used.
 
-The following is always true regardless of the orientation to earth:
-
 ![Flight Control Sufaces](assets/flight_control_sufaces.png){ align=left width="350"}
 
-With the pilot's hands:
+The following is always true regardless of the orientation to earth:
+
+*With the pilot's hands:*
 
 - Pulling the elevator pitch control toward the pilot (otherwise called back pressure) will cause the airplane's nose to rotate backwards around the pitch (lateral) axis of the airplane.
 - Pushing the evelator pitch control away from the pilot (otherwise called forward pressure) will cause the airplane's nose to rotate forwards around the pitch axis of the airplane.
 - Rotating the aileron control to the **right** will cause the airplane's **right** wing to bank (roll) lower.
 - Rotating the aileron control to the **left** will cause the airplane's **left** wing to bank lower.
 
-With the pilots' feet:
+*With the pilots' feet:*
 
 - Pushing the **right** rudder pedal away from the pilot (forward pressure) will cause the airplane's nose to move (yaw) to the **right**.
 - Pushing the **left** rudder pedal away from the pilot (forward pressure) will cause the airplane's nose to yaw to the **left**.
