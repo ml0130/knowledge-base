@@ -4,9 +4,9 @@
 
 /*Primary Thematic Colors*/
 [data-md-color-scheme="default"] {
-    --md-primary-fg-color: #344767;
-    --md-accent-fg-color:         #344767;
-    --md-footer-fg-color:         #344767;
+    --md-primary-fg-color: #16305a;
+    --md-accent-fg-color: #16305a;
+    --md-footer-fg-color: #16305a;
     --md-card-a:  rgba(241, 245, 249, 0.5);
     --md-card-a-hover: rgba(241, 245, 249, 1);
     --md-default-table-header-text: #fff;
@@ -14,8 +14,6 @@
     --md-typeset-link: rgb(104, 148, 230);
     --md-typeset-link-hover: #448aff;
     --md-typeset-a-color: rgb(104, 148, 230);
-    --hotline: #fff820a1;
-    --coldline: #35b9ff66;
   }
   
   [data-md-color-scheme="slate"] {
@@ -29,8 +27,6 @@
     --md-typeset-link: rgb(104, 148, 230);
     --md-typeset-link-hover: #448aff;
     --md-typeset-a-color: rgb(104, 148, 230);
-    --hotline: #b7b10291;
-    --coldline: #16aeff6e;
   }
   
   /*Header Modifications*/
