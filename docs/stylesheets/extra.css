@@ -5,7 +5,7 @@
 /*Primary Thematic Colors*/
 [data-md-color-scheme="default"] {
     --md-primary-fg-color: #16305a;
-    --md-accent-fg-color: #16305a;
+    --md-accent-fg-color: #254f92;
     --md-footer-fg-color: #16305a;
     --md-card-a:  rgba(241, 245, 249, 0.5);
     --md-card-a-hover: rgba(241, 245, 249, 1);
@@ -18,7 +18,7 @@
   
   [data-md-color-scheme="slate"] {
     --md-default-bg-color: #0f172a;
-    --md-accent-fg-color: #16305a;
+    --md-accent-fg-color: #989898;
     --md-primary-fg-color: #fff;
     --md-card-a: #1b253b;
     --md-card-a-hover: #293858;
