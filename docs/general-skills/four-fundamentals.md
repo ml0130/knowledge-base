@@ -28,7 +28,7 @@ An airplane flies in a 3D environment, meaning, it can travel up, down, left, ri
 
 The forward movement of the elevator control will always move the plane in the same direction relative to the pilot's perspective. If the plane is right side up relative to the horrizon, pushing forward on the elevator control will cause the plane to descend. On the other hand, if the plane is upside down relevant to the horrizon, the same action will cause the plane to climb. Depending on the airplane's orientation to the earth, the same control actions can result in different reactions. That's why we came up will the following rule:
 
-!!! info
+!!! warning "Important"
     The pilot is always considered the referenced center of effect as the flight controls are used.
 
 ![Flight Control Sufaces](assets/flight_control_sufaces.png){ align=left width="350"}
