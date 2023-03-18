@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Airplanes operate in a different environment than a car, bike or just by walking. Drivers and bikers tend to focus on the forward motion and new pilots tend to do the same. However, an airplane operates in a 3-dimentional 3D environment. Pilots need to be aware of horizontal, vertical, and lateral movement. The four fundamentals are the principle maneuvers that control an airplane during flight.
+Airplanes operate in a different environment than a car, bike or just by walking. Drivers and bikers tend to focus on the forward motion and new pilots tend to do the same. However, an airplane operates in a 3-dimentional (3D) environment. Pilots need to be aware of horizontal, vertical, and lateral movement. The four fundamentals are the principle maneuvers that control an airplane during flight.
 
 !!! note "The Four Fundamentals"
     The four fundamentals of flight are: straight-and-level flight, turns, climbs, and descents.
@@ -79,3 +79,45 @@ Airplane attitude control is composed of four components:
 - **Bank Control:** Using the ailerons to reach a desired bank angle.
 - **Power Control:** Using the throttle to control the thrust and airspeed to meet a specific objective.
 - **Trim Control:** Used to relieve the control pressures held by the pilot on the flight controls after a desired pitch attitude has been attained.
+
+## Straight-and-Level Flight
+
+!!! note "Straight-and-Level Flight, What is it?"
+    Straight-and-Level Flight is flight in which heading and altitude are constantly maintained.
+
+The Four Fundamentals are in essence a spin of straight-and-level flight. Therefore, the importance of this concept can not be understated. Straight-and-level flight is essentially a matter of fixing the relationship of a reference point on the aircraft to the natural horizon. Since the refernce points depend on the pilot's seating position, height, and the way they sit, it's important that your reference points are established on the ground.
+
+!!! tip
+    Vertical reference lines are best establsihed on the ground, such as when the aircraft is placed on the centerline of a runway.
+
+    Horizontal reference lines are best establsihed during flight, such as during cruise.
+
+    The horizon reference point will always remain the same, since that point is always on the horizon.
+
+### Straight Flight
+
+Maintining a constant direction or heading is accomplished by keeping both wings level. Both wingtips should be equal above or below the natural horizon. Any correction should be made with coordinated use of the ailerons and rudder.
+
+<figure markdown> 
+  ![Straight-and-level flight](assets/straight_flight.png)
+  <figcaption style="font-size: 12px;">Wingtip reference for straight-and-level flight.</figcaption>
+</figure>
+
+Straight-and-level flight does not require application of flight controls if the air is smooth and the aircraft is properly trimmed. If corrections are necessary, the pilot may make the correction precisely, smoothly, and accurately.
+
+
+!!! warning
+    Pilots may tend to look out to one side continually, generally to the left due to the pilot’s left seat position and consequently focus attention in that direction. This not only gives a restricted angle from which the pilot is to observe but also causes the pilot to exert unconscious pressure on the flight controls in that direction.
+
+It is important to continually scan around you to ensure the aircraft's attitude is correct, but also to ensure other factors are on par for a safe flight. Continually checking bot wingtips has multiple advantages: it's the only positive check for level flight, it allows you to look for traffic, terrain, significant weather, and maintaining situational awareness.
+
+### Level Flight
+
+Maintaining level flight is a fairly simple skill. In learning this, it's important that the pilot should only exert enough pressure on the flight controls to produce the desired result. The pilot should learn to associate movements of references with control pressures which produce attitude movement. Subsequently, the pilot can develop an ability to adjust the airplane's attitude without having to excessively rely on instruments or outside references. During straight-and-level flight, the airspeed should remain the same if the power setting is also constant. 
+
+!!! tip "Maintaining Level Flight"
+    Level flight involves having the pilot properly seated, selecting a reference point infront of you, and then keeping that reference point in a fixed position relative to the natural horizon.
+
+A common error new pilots make is attempting to hold the wings level by only referencing the aircraft's nose. Due to the nose's short horizontal reference line, slight deviations could go unnoticed. As such, the wingtips should be the primary reference when maintaining straight-and-level flight.
+
+## Level Turns
