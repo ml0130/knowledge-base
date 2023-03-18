@@ -178,3 +178,4 @@
 *[VMC]: Visual Meteorological Conditions
 *[METARs]: Meteorological Terminal Aviation Routine Weather Reports
 *[TAFs]: Terminal Aerodrome Forecasts
+*[IMC]: Instrument Meteorological Conditions

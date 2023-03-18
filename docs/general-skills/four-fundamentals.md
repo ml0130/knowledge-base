@@ -47,4 +47,35 @@ The following is always true regardless of the orientation to earth:
 - Pushing the **right** rudder pedal away from the pilot (forward pressure) will cause the airplane's nose to move (yaw) to the **right**.
 - Pushing the **left** rudder pedal away from the pilot (forward pressure) will cause the airplane's nose to yaw to the **left**.
 
-<!-- Feel of the Airplane -->
+## Attitude Flying
+
+An airplane's attitude is determined by the angular difference between an airplane's axis and the natural horizon. A false horrizon can occur when the natural horizon is concealed or not apparent. This is important because it required the pilot to create a pictorial sense of the natural horizon.
+
+!!! note
+    - **Pitch Attitude:** The angle formed between the airplane's lpngitudinal axis and the natural horizon. (A)
+    - **Bank Attitude:** The angle formed by the airplane's lateral axis and the natural horizon. (B)
+    - **Yaw Attitude:** The angle formed by the airplane's vertical axis and the direction or flight; not relative to the natural horizon.
+
+<figure markdown> 
+  ![Pitch Roll Diagram](assets/pitch_roll_diagram.png)
+  <figcaption style="font-size: 12px;">(A) Pitch attitude is the angle formed between the airplane’s longitudinal axis. (B) Bank attitude is the angle formed by the airplane’s lateral axis.</figcaption>
+</figure>
+
+Controlling an airplane requires one of two methods to determine the airplane's attitude in reference to the horizon.
+
+### Flying in VMC
+
+When flying in VMC, a pilot uses their eyes and visually references the aircraft's wings and cowling to determine the airplane's attitude to the horizon.
+
+### Flying in IMC
+
+When flying in IMC, the natural horizon is obscured and thus a pilot cannot visually reference it. That's why, in IMC, the pilot uses the airplane's machanical or electronic instruments to determine the airplane's attitude to the natural horizon.
+
+### Controlling an Airplane's Attitude
+
+Airplane attitude control is composed of four components:
+
+- **Pitch Control:** Using the elevator to raise and lower the airplane's nose.
+- **Bank Control:** Using the ailerons to reach a desired bank angle.
+- **Power Control:** Using the throttle to control the thrust and airspeed to meet a specific objective.
+- **Trim Control:** Used to relieve the control pressures held by the pilot on the flight controls after a desired pitch attitude has been attained.
