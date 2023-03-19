@@ -215,4 +215,4 @@ Once you've landed and vacated the runway, report clear of the runway.
 
 You can now taxi to your desired parking bay. ATC has told you to cross runway 25, so you dont need to hold short of it. If you come across any other runway, you do need to hold short of it though.
 
-Congradulations, you have completed your flight! It's always nice to thank ATC before you disconnect.
+Congratulations, you have completed your flight! It's always nice to thank ATC before you disconnect.
