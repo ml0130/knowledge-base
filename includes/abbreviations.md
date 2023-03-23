@@ -92,3 +92,4 @@
 *[VATSIM]: Virtual Air Traffic Simulation Network
 *[TOD]: Top Of Descent
 *[EHAM]: Amsterdam Airport Schiphol (AMS)
+*[IAFs]: Initial Approach Fixes

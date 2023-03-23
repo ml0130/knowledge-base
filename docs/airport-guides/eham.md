@@ -20,6 +20,14 @@ Amsterdam is a large metropolis. With hundreds of planes landing and taking off 
 
 ## Departures
 
+### Taxiing
+
+At EHAM, theres a parallel taxi route, taxiway ALPHA and BRAVO. These function like a normal road. Remain on the right side to follow the one way direction of the taxiway. In other words, taxiway ALPHA takes you clockwise around the airport, while taxiway BRAVO takes you counter-clockwise around the airport.
+
+### Push Back
+
+When pushing back, you also need to follow the direction of the taxiway. The nose of your plane should be pointing in the direction the taxiway runs.
+
 
 ### SIDs
 
@@ -53,4 +61,20 @@ The transition *altitude* for IFR aircraft is 3000 ft, for VFR this is 3500 ft. 
 After departure, you will climb to a maximum FL060 until issued furthen climb by ATC.
 
 !!! warning ""
-    After departure, you switch from the Tower frequency to the Approach/Departure frequency after passing 2000 ft. You should always contact Approach/Departures yourself unless Tower specifically tells you to "remail this frequency."
+    After departure, you switch from the Tower frequency to the Approach/Departure frequency after passing 2000 ft. You should always contact Approach/Departures yourself unless Tower specifically tells you to "remain this frequency."
+
+## Arrivals
+
+There are three IAFs at EHAM. Namely, SUGOL, ARTIP, and RIVER. When passing any of these IAFs, you are met with a speed restriction of 250 kts. You must also fly 160 kts until passing 4 DME.
+
+!!! note "ILS Frequencies"
+    ILS runway 06 - 110.550  
+    ILS runway 18C - 109.500  
+    ILS runway 18R - 110.100  
+    ILS runway 22 - 109.150  
+    ILS runway 27 - 111.550  
+    ILS runway 36C - 108.750  
+    ILS runway 36R - 111.950  
+
+!!! warning ""
+    Just as when departing, when you arrive and have vacated the runway, you are expected to contact Ground yourself unless otherwise told.
