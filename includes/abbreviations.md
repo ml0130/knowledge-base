@@ -48,7 +48,7 @@
 *[ADSB]: Automatic Dependant Surveillance - Broadcast
 *[FF]: Feeder Fix
 *[NAVCAP]: Navigation Capability
-*[TFMS]: The Flow Management Systems
+*[TFMS]: The Flow Management System
 *[SVFR]: Special VFR
 *[FIS]: Flight Information Service
 *[SIS]: Surveillance Information Service (Flight Following)
@@ -83,7 +83,6 @@
 *[VMC]: Visual Meteorological Conditions
 *[METARs]: Meteorological Terminal Aviation Routine Weather Reports
 *[TAFs]: Terminal Aerodrome Forecasts
-*[IMC]: Instrument Meteorological Conditions
 *[GA]: General Aviation
 *[SIDs]: Standard Instrument Departures
 *[STARs]: Standard Terminal Arrival Routes
@@ -91,4 +90,3 @@
 *[VATPAC]: VATSIM Australia Pacific
 *[VATSIM]: Virtual Air Traffic Simulation Network
 *[TOD]: Top Of Descent
-*[IMC]: Instrument Meteorological Conditions
