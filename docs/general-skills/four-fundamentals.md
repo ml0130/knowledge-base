@@ -121,3 +121,5 @@ Maintaining level flight is a fairly simple skill. In learning this, it's import
 A common error new pilots make is attempting to hold the wings level by only referencing the aircraft's nose. Due to the nose's short horizontal reference line, slight deviations could go unnoticed. As such, the wingtips should be the primary reference when maintaining straight-and-level flight.
 
 ## Level Turns
+
+A turn is initiated by banking the wings in the desired direction through the use of the aileron controls. When turing, theres is often a loss of lift because the inner wing (the wing you lowered) is moving slower than the outer wing. Therefore, when turning, you should compensate for the loss of lift by adding power or pitching up.
