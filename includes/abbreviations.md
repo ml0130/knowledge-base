@@ -81,6 +81,7 @@
 *[METAR]: Meteorological Terminal Aviation Routine Weather Report
 *[TAF]: Terminal Aerodrome Forecast
 *[VMC]: Visual Meteorological Conditions
+*[IMC]: Instrument Meteorological Conditions
 *[METARs]: Meteorological Terminal Aviation Routine Weather Reports
 *[TAFs]: Terminal Aerodrome Forecasts
 *[GA]: General Aviation
@@ -90,3 +91,5 @@
 *[VATPAC]: VATSIM Australia Pacific
 *[VATSIM]: Virtual Air Traffic Simulation Network
 *[TOD]: Top Of Descent
+*[EHAM]: Amsterdam Airport Schiphol (AMS)
+*[IAFs]: Initial Approach Fixes
