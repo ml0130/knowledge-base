@@ -81,6 +81,7 @@
 *[METAR]: Meteorological Terminal Aviation Routine Weather Report
 *[TAF]: Terminal Aerodrome Forecast
 *[VMC]: Visual Meteorological Conditions
+*[IMC]: Instrument Meteorological Conditions
 *[METARs]: Meteorological Terminal Aviation Routine Weather Reports
 *[TAFs]: Terminal Aerodrome Forecasts
 *[GA]: General Aviation

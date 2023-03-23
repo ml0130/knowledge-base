@@ -1,5 +1,5 @@
 ---
-    title: The Four Fundamentals
+    title: Straight-and-Level Flight
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -8,20 +8,11 @@
 
 ## Introduction
 
-Airplanes operate in a different environment than a car, bike or just by walking. Drivers and bikers tend to focus on the forward motion and new pilots tend to do the same. However, an airplane operates in a 3-dimentional (3D) environment. Pilots need to be aware of horizontal, vertical, and lateral movement. The four fundamentals are the principle maneuvers that control an airplane during flight.
+Airplanes operate in a different environment than a car, bike or just by walking. Drivers and bikers tend to focus on the forward motion and new pilots tend to do the same. However, an airplane operates in a 3-dimentional (3D) environment. Pilots need to be aware of horizontal, vertical, and lateral movement. Straight-and-level flight are one of four fundamentals when flying an airplane.
 
 !!! note "The Four Fundamentals"
     The four fundamentals of flight are: straight-and-level flight, turns, climbs, and descents.
-
-## Importance of The Four Fundamentals
-
-To master any subject, you need to master the fundamentals first. Attempting to conduct advanced maneuvers before mastering the fundamentals, hinders the learning process. To be a competent pilot, you need to first master the basic fundamentals of airmanship.
-
-!!! quote
-    Consider the following: a takeoff is a combination of straight-and-level flight and a climb; turning on course to the first navigation fix after departure is a climb and a turn; and the landing at the destination is a combination of airplane ground handling, acceleration, pitch and a climb. 
-
-As you progress to more difficult flight maneuvers, any deficiency in the mastery of the four fundamentals are likely to become barriers in your learning. Many new pilots notice difficulty in advanced maneuvers if they have a lack of understanding, training, or practice of the four fundaments. So, lets change that!
-
+    
 ## Flight Controls
 
 An airplane flies in a 3D environment, meaning, it can travel up, down, left, right, forwards, and backwards.
@@ -119,7 +110,3 @@ Maintaining level flight is a fairly simple skill. In learning this, it's import
     Level flight involves having the pilot properly seated, selecting a reference point infront of you, and then keeping that reference point in a fixed position relative to the natural horizon.
 
 A common error new pilots make is attempting to hold the wings level by only referencing the aircraft's nose. Due to the nose's short horizontal reference line, slight deviations could go unnoticed. As such, the wingtips should be the primary reference when maintaining straight-and-level flight.
-
-## Level Turns
-
-A turn is initiated by banking the wings in the desired direction through the use of the aileron controls. When turing, theres is often a loss of lift because the inner wing (the wing you lowered) is moving slower than the outer wing. Therefore, when turning, you should compensate for the loss of lift by adding power or pitching up.
