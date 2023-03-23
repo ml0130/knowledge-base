@@ -83,9 +83,7 @@
 *[VMC]: Visual Meteorological Conditions
 *[METARs]: Meteorological Terminal Aviation Routine Weather Reports
 *[TAFs]: Terminal Aerodrome Forecasts
-<<<<<<< Updated upstream
 *[IMC]: Instrument Meteorological Conditions
-=======
 *[GA]: General Aviation
 *[SIDs]: Standard Instrument Departures
 *[STARs]: Standard Terminal Arrival Routes
@@ -94,4 +92,3 @@
 *[VATSIM]: Virtual Air Traffic Simulation Network
 *[TOD]: Top Of Descent
 *[IMC]: Instrument Meteorological Conditions
->>>>>>> Stashed changes
