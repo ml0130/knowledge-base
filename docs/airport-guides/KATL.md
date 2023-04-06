@@ -16,15 +16,15 @@
 
 ## Introduction
 
-Amsterdam is a large metropolis. With hundreds of planes landing and taking off every day, its vital to be familiar with the airport. EHAM is a rather complex airport, which can make it difficult for pilots to navigate. We hope this guide makes it easier and more enjoyable for you to flying into and out of this airport.
 
-## Departures
+
+## Departures 
 
 ### Taxiing
 
 
 ### Push Back
-
+	Generally at most majior American airports you will need to call the aporaite ramp/appron controler for push and start cleanrence. Unlike in most of the world where ramp/appron at controled and managed by the overalying ATC athority in the USA most ramp/appron space are handled by either the airlines or the city/county that the airport is located in. 
 
 
 
@@ -40,7 +40,7 @@ Depending on your destination, you can expect to fly one of the following SIDs:
 
 
 !!! note "Specific Flight Levels"
-    When flying to a particular destination, you may expect to fly one of the following levels:
+    Following the NEOD SWEVN rule that most of the world uses to determin your final flight level 
 
 
 
